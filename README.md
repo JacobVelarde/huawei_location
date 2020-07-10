@@ -84,7 +84,7 @@ class _MyAppState extends State<MyApp> {
 ```
 
 ## Demo
-Please run the app in the example/ folder
+Please run the app in the ```example/``` folder
 
 ## Note
 This plugin is still under development
