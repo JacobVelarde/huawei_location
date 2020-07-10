@@ -1,11 +1,10 @@
-package com.jacob.huaweilocation
+package com.jacob.huawei_location_mx
 
 import android.app.Activity
 import android.content.Context
 import android.content.IntentSender
 import android.location.Location
 import android.os.Looper
-import android.util.Log
 import androidx.annotation.NonNull;
 import com.huawei.hms.common.ApiException
 import com.huawei.hms.common.ResolvableApiException

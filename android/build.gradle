@@ -1,4 +1,4 @@
-group 'com.jacob.huaweilocation'
+group 'com.jacob.huawei_location_mx'
 version '1.0-SNAPSHOT'
 
 buildscript {

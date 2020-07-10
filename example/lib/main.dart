@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'dart:async';
+import 'package:huawei_location/huaweilocation.dart';
 
-import 'package:flutter/services.dart';
-import 'package:huaweilocation/huaweilocation.dart';
 
 void main() {
   runApp(MyApp());

@@ -1,6 +1,5 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:huaweilocation/huaweilocation.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('huaweilocation');
@@ -17,7 +16,4 @@ void main() {
     channel.setMockMethodCallHandler(null);
   });
 
-  test('getPlatformVersion', () async {
-    expect(await Huaweilocation.platformVersion, '42');
-  });
 }
