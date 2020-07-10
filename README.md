@@ -9,7 +9,7 @@ First, add huaweilocation as a dependency in your pubspec.yaml file.
 
 ```
 dependencies:
-  huaweilocation: <latest_version>
+  huawei_location: <latest_version>
 ```
 
 ## Example
